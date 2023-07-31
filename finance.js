@@ -17,3 +17,18 @@ function getCommonFinancialFunctions() {
     'calculateEarningsPerShare'
   ];
 }
+
+function getCommonFinancialFunctions1() {
+  return [
+    'calculateCompoundInterest',
+    'calculateLoanPayment',
+    'calculateFutureValue',
+    'calculatePresentValue',
+    'calculateNetPresentValue',
+    'calculateInternalRateOfReturn',
+    'calculateReturnOnInvestment',
+    'calculatePaybackPeriod',
+    'calculateDiscountedCashFlow',
+    'calculateEarningsPerShare'
+  ];
+}
