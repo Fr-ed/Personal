@@ -1,0 +1,51 @@
+OPEN SOFTWARE LICENSE TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+1.1 "License" means the rights granted under this Agreement to use, modify, and distribute the Software.
+
+1.2 "Software" refers to the open-source software, including any updates or modifications, covered by this License.
+
+1.3 "Derivative Works" means any modifications, enhancements, or extensions of the Software, as well as any other software containing a portion of the Software.
+
+1.4 "Contributor" refers to any individual or entity that creates or contributes to the creation of Derivative Works.
+
+1.5 "Distribution" includes the reproduction and distribution of copies or Derivative Works, either in source or object form.
+
+2. GRANT OF LICENSE
+
+2.1 Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive, irrevocable license to exercise the rights to use, modify, and distribute the Software.
+
+2.2 You may create Derivative Works and distribute them under the terms of this License.
+
+2.3 You must include a copy of this License with any copies or substantial portions of the Software or Derivative Works.
+
+3. OBLIGATIONS
+
+3.1 Attribution: You must retain, in all copies or Derivative Works, any copyright notices, disclaimers, or other proprietary designations included in the Software.
+
+3.2 Modifications: If You create Derivative Works, You must clearly indicate that changes have been made to the original Software and document the nature of these changes.
+
+3.3 Compliance: You must comply with all applicable laws and regulations regarding the use, modification, and distribution of the Software.
+
+4. DISCLAIMER OF WARRANTY
+
+4.1 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. LIMITATION OF LIABILITY
+
+5.1 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+
+6.1 This License automatically terminates if You fail to comply with its terms and conditions. Upon termination, You must cease all use, distribution, and possession of the Software.
+
+7. GENERAL
+
+7.1 This License constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, whether oral or written, relating to the Software.
+
+7.2 This License may be revised from time to time by the Licensor. The revised terms will apply to the Software released under future versions of the License.
+
+By using, modifying, or distributing the Software, You agree to be bound by the terms and conditions of this License.
+
+END OF TERMS AND CONDITIONS
